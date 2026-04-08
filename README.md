@@ -6,9 +6,9 @@
 - Email: anastasiia.dobroskokina@nure.ua
 
 ## Технології
-- Мова програмування: C# (.NET 8.0/9.0)
-- IDE: Visual Studio Code 1.110
-- VCS: Git 2.47 + GitHub
+- Мова програмування: C# (.NET 10.0)
+- IDE: Visual Studio Code 1.113
+- VCS: Git 2.49 + GitHub
 - AI-асистент: GitHub Copilot Student
 
 ## Встановлення та запуск
